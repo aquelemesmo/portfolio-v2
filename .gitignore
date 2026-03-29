@@ -2,3 +2,6 @@ node_modules
 public
 bun.lock
 .idea
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
