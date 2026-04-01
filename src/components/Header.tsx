@@ -10,7 +10,7 @@ export default function Header() {
     return (
         <>
             <div className="relative w-full h-full">
-                <div className="relative z-10 flex flex-col items-center justify-center h-screen gap-10">
+                <div className="relative z-10 flex flex-col items-center justify-center h-screen gap-10 text-center">
 
                     <h1 className={`font-[Arial] font-bold text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-white object-cover transform transition-all duration-1000 ${show ? "translate-y-0 opacity-100" : "-translate-y-20 opacity-0"}`}>Welcome to<br/> my portfolio</h1>
                     <div className="flex flex-col md:flex-row items-center gap-4 md:gap-10">

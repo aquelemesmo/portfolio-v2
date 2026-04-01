@@ -10,5 +10,6 @@ export type ProjectType = {
     description?: string;
     image?: string;
     link?: string;
-    gifs: string[];
+    media?: string[];
+    gifs?: string[];
 }

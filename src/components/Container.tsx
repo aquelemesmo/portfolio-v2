@@ -20,18 +20,18 @@ export default function Container() {
         <>
             <div className="text-white text-center justify-center items-center">
                 <section id="aboutme">
-                    <h1 className="text-2xl md:text-3xl lg:text-4xl m-8 md:m-16 lg:m-24 font-semibold">About me</h1>
+                    <h1 className="text-2xl md:text-3xl lg:text-4xl m-8 md:m-16 lg:m-24 font-semibold ">About me</h1>
 
                     <div className="flex flex-col md:flex-row text-white px-4 md:px-8 lg:px-24 xl:px-96 gap-8 md:gap-12">
                         <img src="/png/eu_ai.png" className={`relative rounded-full w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 object-cover mx-auto md:mx-0`}/>
 
-                        <p className="text-sm md:text-base lg:text-lg">My name is Lucas Gomes, i have 18 years old, born in São Paulo, Brazil. I am a developer technology who started my journey in a self-taught way, exploring programming during my free time and turning curiosity into solid knowledge. Over time, I enhanced my studies through courses, technical education in IT, and I am currently deepening my knowledge in the field of Computer Science.
+                        <p className="text-sm md:text-base lg:text-lg">My name is Lucas Gomes, I am 18 years old, and I was born in São Paulo, Brazil. I am a technology developer who began my journey in a self-taught way, exploring programming during my free time and transforming curiosity into solid knowledge.
 
-                            I have experience in web application development, working on both front-end and back-end, using technologies such as HTML, CSS, JavaScript, React, and other modern tools to build functional interfaces and efficient digital experiences.
+                            Over time, I strengthened my skills through courses, technical education in IT, and I am currently deepening my studies in the field of Computer Science. I have experience in web application development, working on both front-end and back-end, using technologies such as HTML, CSS, JavaScript, React, and other modern tools to build functional interfaces and efficient digital experiences.
 
-                            Additionally, I have been working for years with Discord bot development, creating customized solutions for communities of different sizes, always focusing on automation, performance, and system organization.
+                            In addition, I have several years of experience developing Discord bots, creating customized solutions for communities of different sizes, always focusing on automation, performance, and system organization.
 
-                            My goal is to develop increasingly complete, scalable, and well-structured projects, aiming not only to write code but to create solutions that truly deliver value.</p>
+                            My goal is to build increasingly complete, scalable, and well-structured projects — not just writing code, but delivering solutions that truly create value.</p>
                     </div>
                 </section>
 
