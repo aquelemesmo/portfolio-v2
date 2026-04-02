@@ -25,13 +25,9 @@ export default function Container() {
                     <div className="flex flex-col md:flex-row text-white px-4 md:px-8 lg:px-24 xl:px-96 gap-8 md:gap-12">
                         <img src="/png/eu_ai.png" className={`relative rounded-full w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 object-cover mx-auto md:mx-0`}/>
 
-                        <p className="text-sm md:text-base lg:text-lg">My name is Lucas Gomes, I am 18 years old, and I was born in São Paulo, Brazil. I am a technology developer who began my journey in a self-taught way, exploring programming during my free time and transforming curiosity into solid knowledge.
+                        <p className="text-sm md:text-base lg:text-lg">A technology developer passionate about transforming curiosity into digital solutions. My journey began as a self-taught individual and today is consolidated with an academic foundation in Computer Science, IT training, and courses.
 
-                            Over time, I strengthened my skills through courses, technical education in IT, and I am currently deepening my studies in the field of Computer Science. I have experience in web application development, working on both front-end and back-end, using technologies such as HTML, CSS, JavaScript, React, and other modern tools to build functional interfaces and efficient digital experiences.
-
-                            In addition, I have several years of experience developing Discord bots, creating customized solutions for communities of different sizes, always focusing on automation, performance, and system organization.
-
-                            My goal is to build increasingly complete, scalable, and well-structured projects — not just writing code, but delivering solutions that truly create value.</p>
+                            With experience in web development (Full Stack) and creating automation bots for Discord, focusing on building functional interfaces and efficient architectures. Developing goes beyond "writing code"; it's about delivering real value through scalable, well-structured projects centered on user experience.</p>
                     </div>
                 </section>
 
