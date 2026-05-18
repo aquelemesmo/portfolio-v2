@@ -6,7 +6,13 @@ const project: ProjectType[] = [
     {category: "Minecraft Server", title: "ComplexoCraft", image: "/png/project/complexocraft.png", gifs: ["/gif/project/complexocraft/gif-1.gif", "/gif/project/complexocraft/gif-2.gif", "/gif/project/complexocraft/gif-3.gif", "/gif/project/complexocraft/gif-4.gif"]},
     {category: "Minecraft Server", title: "RedeSoul", image: "/png/project/redesoul.png", gifs: ["/gif/project/redesoul/gif-1.gif", "/gif/project/redesoul/gif-2.gif", "/gif/project/redesoul/gif-3.gif", "/gif/project/redesoul/gif-4.gif", "/gif/project/redesoul/gif-5.gif", "/gif/project/redesoul/gif-6.gif"]},
     {category: "Minecraft Server", title: "RedeInsanos", image: "/png/project/redeinsanos.png", gifs: ["/gif/project/redeinsanos/gif-1.gif", "/gif/project/redeinsanos/gif-2.gif", "/gif/project/redeinsanos/gif-3.gif", "/gif/project/redeinsanos/gif-4.gif", "/gif/project/redeinsanos/gif-5.gif", "/gif/project/redeinsanos/gif-6.gif"]},
-    {category: "Minecraft Server", title: "BedWars", image: "/png/project/bedwars.png", media: ["/png/project/video/bedwars.mp4"]}
+    {category: "Minecraft Server", title: "BedWars", image: "/png/project/bedwars.png", media: ["/png/project/video/bedwars.mp4"]},
+    {category: "Minecraft Server", title: "CandySMP", image: "/png/project/candysmp.png", media: ["/png/project/video/candysmp1.mp4", "/png/project/video/candysmp2.mp4", "/png/project/video/candysmp3.mp4", "/png/project/video/candysmp4.mp4", "/png/project/video/candysmp5.mp4", "/png/project/video/candysmp6.mp4"]},
+    {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn1.png", link: "https://www.youtube.com/watch?v=sLDsDuLlI_Q"},
+    {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn2.png", link: "https://www.youtube.com/watch?v=oAlt1H-wLVY"},
+    {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn3.png", link: "https://www.youtube.com/watch?v=wGGD3NZqLjU"},
+    {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn4.png", link: "https://www.youtube.com/watch?v=YuN3mgC4SSg"},
+    {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn5.png", link: "https://www.youtube.com/watch?v=_i65chrPXLM"},
 ]
 
 type Props = {
