@@ -13,6 +13,7 @@ const project: ProjectType[] = [
     {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn3.png", link: "https://www.youtube.com/watch?v=wGGD3NZqLjU"},
     {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn4.png", link: "https://www.youtube.com/watch?v=YuN3mgC4SSg"},
     {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn5.png", link: "https://www.youtube.com/watch?v=_i65chrPXLM"},
+    {category: "Website (Front-End)", title: "Color Gradient", image: "/png/project/color-gradient.png", link: "https://color-gradient-eight.vercel.app/"},
 ]
 
 type Props = {
