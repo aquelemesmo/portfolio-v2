@@ -9,7 +9,7 @@ const projects: ProjectType[] = [
     {category: "Minecraft Server", title: "BedWars", image: "/png/project/bedwars.png", media: ["/png/project/video/bedwars.mp4"]},
     {category: "Minecraft Server", title: "CandySMP", image: "/png/project/candysmp.png", media: ["/png/project/video/candysmp1.mp4", "/png/project/video/candysmp2.mp4", "/png/project/video/candysmp3.mp4", "/png/project/video/candysmp4.mp4", "/png/project/video/candysmp5.mp4", "/png/project/video/candysmp6.mp4"]},
     {category: "Video Editor", title: "TheKingJohn_", image: "/png/project/thekingjohn1.png", links: ["https://www.youtube.com/watch?v=oAlt1H-wLVY", "https://www.youtube.com/watch?v=u0k1n-BupHM&t=5s", "https://www.youtube.com/watch?v=CGbjLkFPtJQ&t=167s"]},
-    {category: "Video Editor", title: "EcoStudios", image: "/png/project/ecostudios.png", links: ["https://www.instagram.com/reel/DaX4kS0xUiu/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="]},
+    {category: "Video Editor", title: "EcoStudios", image: "/png/project/ecostudios.png", links: ["https://www.instagram.com/reel/DaX4kS0xUiu/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==", "https://www.instagram.com/reel/DaVhc1Wxg5_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==", "https://www.instagram.com/reel/DaNyIf9xb-i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==", "https://www.instagram.com/reel/DaLWgIRRE02/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==", "https://www.instagram.com/reel/DaIoc72x4HC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="]},
     {category: "Website (Front-End)", title: "Color Gradient", image: "/png/project/color-gradient.png", links: ["https://color-gradient-eight.vercel.app/"]},
 ]
 
