@@ -74,12 +74,6 @@ export default function ProjectModal({pages, onClose}: ModalProps) {
         return (isInstagram && ["p", "reel", "tv"].includes(pathParts[0])) || isTikTok || isYouTubeShort;
     }
 
-    const isInstagramLink = (src: string) => {
-        const url = getUrl(src);
-
-        return Boolean(url?.hostname.includes("instagram.com"));
-    }
-
     const getEmbedUrl = (src: string) => {
         const url = getUrl(src);
 
