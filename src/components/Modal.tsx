@@ -143,7 +143,6 @@ export default function ProjectModal({pages, onClose}: ModalProps) {
     if (!currentPage) return null;
 
     const currentEmbedUrl = currentPage.type === "link" ? getEmbedUrl(currentPage.src) : null;
-    const isCurrentInstagramLink = currentPage.type === "link" && isInstagramLink(currentPage.src);
     const isVerticalPage = currentPage.type === "media"
         ? isVerticalVideo(currentPage.src)
         : isVerticalLink(currentPage.src);
