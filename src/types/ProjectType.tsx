@@ -9,7 +9,7 @@ export type ProjectType = {
     category: ProjectCategory;
     description?: string;
     image?: string;
-    link?: string;
+    links?: string[];
     media?: string[];
     gifs?: string[];
 }
